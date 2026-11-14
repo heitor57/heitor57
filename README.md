@@ -21,13 +21,6 @@ Recently I've been exploring:
 * Sequential decision making
 * Transformer and recurrent architectures
 * Modern sequence models such as Mamba and xLSTM
--->
-
-# Hi there 👋
-
-I'm Heitor, a Computer Science M.Sc. researcher at the University of São Paulo (USP) interested in machine learning, recommender systems, reinforcement learning, information retrieval, and sequential modeling.
-
-Most of my work revolves around building and evaluating machine learning systems, but I also enjoy tweaking open-source software, experimenting with new ideas, and learning how things work under the hood.
 
 ## What you'll find here
 
@@ -37,6 +30,13 @@ Most of my work revolves around building and evaluating machine learning systems
 * 🎮 Reinforcement Learning
 * 🛠️ Open-source libraries and frameworks
 * 📊 Data analysis and visualization
+-->
+
+# Hi there 👋
+
+I'm Heitor, a Computer Science M.Sc. researcher at the University of São Paulo (USP) interested in machine learning, recommender systems, reinforcement learning, information retrieval, and sequential modeling.
+
+Most of my work revolves around building and evaluating machine learning systems, but I also enjoy tweaking open-source software, experimenting with new ideas, and learning how things work under the hood.
 
 ## Get in touch
 
