@@ -40,6 +40,6 @@ Most of my work revolves around building and evaluating machine learning systems
 
 ## Get in touch
 
-* Google Scholar: https://scholar.google.com/citations?user=eWGiCtcAAAAJ
-* LinkedIn: https://www.linkedin.com/in/heitor-werneck-03b797143/
-* Email: [heitorlwerneck@gmail.com](mailto:heitorlwerneck@gmail.com)
+* [Google Scholar](https://scholar.google.com/citations?user=eWGiCtcAAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/heitor-werneck-03b797143/)
+* [Email](mailto:heitorlwerneck@gmail.com)
