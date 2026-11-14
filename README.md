@@ -42,4 +42,4 @@ Most of my work revolves around building and evaluating machine learning systems
 
 * Google Scholar: https://scholar.google.com/citations?user=eWGiCtcAAAAJ
 * LinkedIn: https://www.linkedin.com/in/heitor-werneck-03b797143/
-* Email: [hwerneck@ime.usp.br](mailto:hwerneck@ime.usp.br)
+* Email: [heitorlwerneck@gmail.com](mailto:heitorlwerneck@gmail.com)
