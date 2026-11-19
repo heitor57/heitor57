@@ -34,9 +34,9 @@ Recently I've been exploring:
 
 # Hi there 👋
 
-I'm Heitor, a Computer Science M.Sc. researcher at the University of São Paulo (USP) interested in machine learning, recommender systems, reinforcement learning, information retrieval, and sequential modeling.
+I'm Heitor, a Computer Science M.Sc. from the University of São Paulo (USP), and I've been building things with computers since I was 12.
 
-Most of my work revolves around building and evaluating machine learning systems, but I also enjoy tweaking open-source software, experimenting with new ideas, and learning how things work under the hood.
+I'm particularly interested in machine learning, recommender systems, reinforcement learning, information retrieval, and sequential modeling. Most of my work revolves around building and evaluating intelligent systems, but I also enjoy contributing to open-source software, experimenting with new ideas, and understanding how things work under the hood.
 
 ## Get in touch
 
